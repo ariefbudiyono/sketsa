@@ -1,0 +1,10 @@
+{
+	"description" : "myIgniter Custom framework",
+	"name" : "myIgniter",
+	"type" : "project",
+	"license": "MIT",
+    "require": {
+    	"php": ">=5.3",
+    	"tan5en5/codeigniter-debugbar": "dev-master"
+    }
+}
